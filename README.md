@@ -1,7 +1,7 @@
 # Brightline Content Engine
 ### AI-Powered Content Repurposing Pipeline
 
-Part of an AI Automation Portfolio — [see all projects](https://sage9964.github.io)
+# Part of an AI Automation Portfolio — [see all projects](https://sage9964.github.io)
 
 ---
 
